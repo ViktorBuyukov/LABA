@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\bin\Debug\WinServLab2.exe.config
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\bin\Debug\WinServLab2.exe
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\bin\Debug\WinServLab2.pdb
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\obj\Debug\WinServLab2.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\obj\Debug\WinServLab2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\obj\Debug\WinServLab2.exe
+C:\Users\Home\source\repos\WinServLab2\WinServLab2\obj\Debug\WinServLab2.pdb
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\obj\Debug\WinServLab2.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\obj\Debug\WinServLab2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\obj\Debug\WinServLab2.exe
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\obj\Debug\WinServLab2.pdb
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\bin\Debug\WinServLab2.exe.config
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\bin\Debug\WinServLab2.exe
+C:\Users\Home\source\repos\WinServLab2 — копия\WinServLab2\bin\Debug\WinServLab2.pdb
